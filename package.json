@@ -1,0 +1,10 @@
+{
+	"name": "bruno-creator",
+	"version": "1.0",
+	"description": "bruno",
+	"main": "bruno.js",
+	"author": "lolo",
+	"dependencies": {
+		"node-fetch": "^2.6.1"
+	}
+}
